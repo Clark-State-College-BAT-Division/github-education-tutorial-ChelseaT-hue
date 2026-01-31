@@ -2,4 +2,10 @@
 #Lines that start with # are comments and are not executed.
 #There is a link to a video in Blackboard, and your instructor will step through this process in class.
 #Remove the # from the next line so when you run this file it prints "Hello, world."
-#print("Hello, world.")
+print("Hello, world.")
+print("Something else.")
+x = 5
+y = 8
+z = x + y
+answer = f"the sum of {x} and {y} is {z}."
+print(answer)
